@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on React-focused frontend projects<br>🤝 Open to collaborating on modern web apps and UI-heavy projects<br>🧠 Looking for help with scaling frontend architecture and performance<br>🌱 Learning advanced React, animations, and 3D web (Three.js)<br>💬 Ask me about React, UI design, and frontend workflows<br>🎯 Interested in social media marketing, graphic design, and coding<br>⚡ Fun fact: I care more about clean UI and smooth UX than anything else
+🔭 Currently working on React-focused frontend projects<br>🤝 Open to collaborating on modern web apps and UI-heavy projects<br>🧠 Looking for help with scaling frontend architecture and performance<br>🌱 Learning advanced React, animations, and 3D web (Three.js)<br>💬 Ask me about React, UI design, and frontend workflows<br>🎯 Interested in social media marketing, graphic design, and coding<br>⚡ Fun fact: I care more about clean UI and smooth UX than anything else.
 
 
 ## 🌐 Socials:
